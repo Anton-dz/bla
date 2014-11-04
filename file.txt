@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Orest Is a very very nice guy
 !!!!
 OKOK
 BY BY
+=======
+orets is a nice guy
+>>>>>>> a52dcb14cdbe8e67232d2b301bacab85c7d9e6fa
